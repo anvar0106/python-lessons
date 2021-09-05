@@ -1,6 +1,6 @@
 mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz',
                'kartoshka', 'olma', 'banan', 'uzum', 'qovun','mango','olcha',
-               'apelsin','shaftoli']
+               'apelsin','shaftoli ']
 savat=[]
 for n in range(5):
     savat.append(input(f"Savatga {n+1}-mahsulotni qo'shing: "))
